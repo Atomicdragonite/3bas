@@ -2,3 +2,5 @@ num1 = 10
 num2 = 20
 addition = num1 + num2
 print ("the addition is:", addition)
+mulitplication = num1 * num2
+print ("the multiplication is:", mulitplication)
