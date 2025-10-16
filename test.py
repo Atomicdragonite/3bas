@@ -7,4 +7,4 @@ print ("the multiplication is:", mulitplication)
 subtraction = num2 - num1
 print ("the subtraction is:", subtraction)
 division = num2 / num1
-print ("the division is:")
+print ("the division is:", division)
